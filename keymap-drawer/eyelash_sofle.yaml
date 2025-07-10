@@ -237,8 +237,8 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - layer1
   - Z
+  - X
   - C
-  - {t: '$$mdi:transfer$$', type: trans}
   - L
   - M
   - {t: '$$mdi:transfer$$', type: trans}
