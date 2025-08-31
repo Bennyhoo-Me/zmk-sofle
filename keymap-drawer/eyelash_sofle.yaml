@@ -87,9 +87,9 @@ layers:
   - $$mdi:brightness-5$$
   - {t: '$$mdi:menu-down$$', s: '$$mdi:mouse$$'}
   - PG UP
-  - BACK
+  - $$mdi:skip-previous$$
   - $$mdi:arrow-up-bold$$
-  - FORWARD
+  - $$mdi:skip-next$$
   - {t: '-', s: _}
   - {t: '=', s: +}
   - {t: '$$mdi:transfer$$', type: trans}
